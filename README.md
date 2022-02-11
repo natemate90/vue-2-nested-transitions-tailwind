@@ -1,5 +1,6 @@
 # Nested Transitions with Vue 2 and Tailwind CSS
 Example how orchestrated (nested) transitions can be used without any external libraries in Vue 2. 
+I found little about this on the internet and it takes a while to figure this out.
 Headless UI is only available for Vue 3 but we want this now ;-) 
 
 ## enter-active-class
@@ -29,3 +30,7 @@ You could add a delay class to the nested transition or alternatively, use the `
 1. https://v2.vuejs.org/v2/guide/transitions.html
 2. https://vuejs.org/guide/built-ins/transition.html
 3. https://medium.com/@Taha_Shashtari/how-to-apply-nested-transitions-in-vue-d3a9fe1e1c98
+
+# Questions
+
+This is a quick example, leave any questions by creating an issue.
